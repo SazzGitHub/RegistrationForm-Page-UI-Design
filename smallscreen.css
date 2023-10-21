@@ -68,7 +68,7 @@
   ::placeholder {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 0.99em;
-    color: rgb(139, 139, 139);
+    color: rgba(139, 139, 139, 0.601);
   }
 
   .formFooter {
